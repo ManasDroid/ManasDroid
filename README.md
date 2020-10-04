@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Manas !
 
-- 🔭 I’m currently a Computer Science Sophomore.
+- 🔭 I’m a Computer Science Sophomore at the moment.
 - 🌱 I’m currently learning Android Developement.
 - 👯 I’m looking to collaborate on Java and Android based projects.
 - 🤔 I’m looking for help with Kotlin codebases used in Android developement.
