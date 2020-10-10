@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Manas !
-![](https://3.bp.blogspot.com/-Bmq3YncJceQ/WEu597N68vI/AAAAAAAAAq8/fk-l4f-Mrb02ZvSiH8SY6kfUg9doFgU9gCLcB/s640/hello_world.gif)
+![](https://lildevilmama.com/wp-content/uploads/2019/05/hello-world-1068x601.png)
 
 - 🔭 I’m a 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗦𝗰𝗶𝗲𝗻𝗰𝗲 𝗦𝗼𝗽𝗵𝗼𝗺𝗼𝗿𝗲 at the moment.
 - 🌱 I’m currently learning 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
