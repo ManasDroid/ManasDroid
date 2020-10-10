@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate on 𝗝𝗮𝘃𝗮 𝗮𝗻𝗱 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗯𝗮𝘀𝗲𝗱 𝗽𝗿𝗼𝗷𝗲𝗰𝘁𝘀.
 - 🤔 I’m looking for help with 𝗞𝗼𝘁𝗹𝗶𝗻 codebases used in 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ManasDroid)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ManasDroid&show_icons=true&theme=radical)
 
 
 <!--
