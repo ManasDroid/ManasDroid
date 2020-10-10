@@ -11,7 +11,9 @@ Skills: **Java** / **C** / **Kotlin** / **Android**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ManasDroid&show_icons=true&theme=radical)
 
+Get in touch here :
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/ManasDroid)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/manaspatraMRP)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ManasDroid)  
 
 
 
