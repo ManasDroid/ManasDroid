@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with 𝗞𝗼𝘁𝗹𝗶𝗻 codebases used in 𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁.
 
 
-Skills: **Java** / **C** / **Kotlin** / **Android** / **UI - UX**
+Skills: **Java** / **JavaScript** / **C/C++** / **Databases** / **Backend**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ManasDroid&show_icons=true&theme=radical)
 
